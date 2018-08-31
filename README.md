@@ -122,6 +122,7 @@ Con la información recabada con este método de investigación decidimos agrupa
 
 ###  [Benchmark](https://drive.google.com/open?id=1Y8di3qV68CPMSPwzGi8AVgM5LgoLmAVP) 
 ![Benchmark](img/bm01.jpg)
+
 Para el benchmark decidimos buscar otros e-commerce con características relacionadas al servicio con el cliente, la logística de los envíos, la interacción de las usuarias con la página, y si la página muestra cómo se usan los productos que venden.
 
 Comparamos tanto e-commerce que se dedican exclusivamente a la venta de productos para el cabello; exclusivamente maquillaje, aunque también tiendas que venden ambos productos y por último, una página de un estudio que es competencia de nuestro cliente.
@@ -149,7 +150,9 @@ Al terminar la investigación y al sacar los insights nos dimos a la tarea de ha
 Al hacer pruebas con usuarias nos dieron varios feedbacks, pero el más importante fue el de la vista donde se le avisaba a la clienta que para apartar la cita tendría que hacer un depósito de la mitad del estimado.
 
 Al principio creíamos que esto resolvería uno de los pain points que descubrimos en el journey map, pero nos dimos cuenta que era todo lo contrario. Por lo que decidimos omitir la parte del pago y darle la posibilidad de apartar la cita sin necesidad de desembolsar dinero por adelantado, además de que se planea mandarle de forma automática dos correos: el primero se haría cuando se hace la cita (con la posibilidad de que ese evento se agregue al calendario de la usuaria) y otro de recordatorio dos días o un día antes de su cita (dependiendo con cuanto tiempo hizo la cita).
+
 ![sketch alta](img/alta01.jpg)
+
 ![sketch alta](img/alta02.jpg)
 
 #### Prototipo de baja fidelidad
