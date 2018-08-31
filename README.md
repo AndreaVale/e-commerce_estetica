@@ -181,7 +181,7 @@ Estos fueron los dos pain points que decidimos solucionar para este primer alcan
 #### VIDEO EN LOOM
 En este [Video en Loom](https://marvelapp.com/1924c2b6) les contamos a grandes rasgos nuestro proceso en este proyecto.
 #### Presentación DEMO
-Pueden checar la [presentación aquí](https://marvelapp.com/1924c2b6)
+Pueden checar la [presentación aquí](https://docs.google.com/presentation/d/1RfbdHgOm_pdtJxciX4hTYI637nQcnenRAOyMrfkwyZo/edit?usp=sharing)
 
 #### [ANEXOS](https://drive.google.com/open?id=1Y8di3qV68CPMSPwzGi8AVgM5LgoLmAVP)
 
