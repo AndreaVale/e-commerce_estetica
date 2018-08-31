@@ -47,7 +47,9 @@ Para esta investigación decidimos acercarnos a los siguientes métodos de inves
 ### Entrevistas:
 
 #### Insights de la entrevista con el cliente:
+
 ![cliente](img/04.jpg)
+
 La entrevista con nuestro cliente fue muy importante ya que nos dimos cuenta de la misión, visión de Rick sobre su negocio.
 
  Rick quiere crecer profesionalmente, pero sin perder su esencia. También quiere apoyarse en una tienda en línea para proporcionarle a sus clientas la comodidad de recibir sus productos en la comodidad de sus casas o lugares del trabajo u agendar citas via e-commerce para agilizar.
