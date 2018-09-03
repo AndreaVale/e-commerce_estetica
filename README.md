@@ -139,6 +139,9 @@ Haciendo el benchmark descubrimos varias áreas de oportunidad que podríamos at
 
 Creemos firmemente que estos puntos harán que el e-commerce de Rick  sobresalga de la mayoría de los ya existentes.
 
+También decidimos hacer un análisis rápido de los 10 principios de usabilidad de Nielsen de las mismas páginas. Con este benchmark nos dimos cuenta que ninguna cumple al 100 y que al ser la mayoría e-commerce, no le dan la importancia debida a que el cliente pueda pedir ayuda de una manera sencilla.
+![Benchmark Nielsen](img/bmn.jpg)
+
 ### Sketching
 Empezamos creando unos sketchs muy sencillos en post-its, los cuales fueron cambiando lentamente mientras haciamos la investigación.
 ![sketch](img/sk01.jpg)
