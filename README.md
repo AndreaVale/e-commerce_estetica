@@ -1,6 +1,9 @@
 # E-commerce para el estudio “Hair by Ricksou”   :haircut:
 ![Logo](img/01.jpg)
 
+#### Prototipo de alta fidelidad
+A continuación se encuentra el link al[Prototipo de alta fidelidad con interacción](https://marvelapp.com/1924c2b6).
+
 ## INTRODUCCIÓN 
 
 Rick ha tenido un buen año y para cerrarlo con broche de oro quiere entrar al mundo de la tecnología con un e-commerce. Para esta nueva aventura nos ha contactado para hacer la parte UX y el UI de su nuevo emprendimiento.
@@ -162,8 +165,7 @@ Al principio creíamos que esto resolvería uno de los pain points que descubrim
 
 #### Prototipo de baja fidelidad
 A continuación se encuentra el link al[Prototipo de baja fidelidad con interacción](https://marvelapp.com/34ei000).
-#### Prototipo de alta fidelidad
-A continuación se encuentra el link al[Prototipo de alta fidelidad con interacción](https://marvelapp.com/1924c2b6).
+
 #### USER PERSONA
 
 Nuestra User Persona fue mutando poco a poco. Pasó de ser una persona un tanto irreal a ser una persona que se acercaba más a la media de las clientas del estudio.
