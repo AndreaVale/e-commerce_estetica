@@ -171,7 +171,7 @@ Nuestra User Persona fue mutando poco a poco. Pasó de ser una persona un tanto 
 Primera iteración de la User Persona:
 ![User persona 1](img/up02.jpg)
 Segunda iteración de la User Persona:
-![User persona 1](img/up03.jpg)
+![User persona 1](img/userp03.jpg)
 Aún sabemos que falta mucho para acercarnos a una User Persona más apegada a la data, pero hemos podido darnos cuenta de la importancia de tener a la User Persona en nuestras mentes mientras diseñábamos la interfaz del e-commerce.
 
 #### COSTUMER JOURNEY
