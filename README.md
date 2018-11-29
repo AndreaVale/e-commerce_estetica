@@ -1,5 +1,6 @@
 # E-commerce para el estudio “Hair by Ricksou”   :haircut:
-![Logo](img/01.jpg)
+## Desarrollado para [Laboratoria](https://www.laboratoria.la/)
+![sketch alta](img/alta01.jpg)
 
 #### Prototipo de alta fidelidad
 A continuación se encuentra el link al[Prototipo de alta fidelidad con interacción](https://marvelapp.com/1924c2b6).
